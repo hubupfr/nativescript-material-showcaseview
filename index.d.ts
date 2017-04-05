@@ -1,1 +1,1 @@
-export * from './material-showcaseview.android';
+export * from './material-showcaseview';
